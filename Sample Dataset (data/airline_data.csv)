@@ -1,0 +1,7 @@
+Airline,Source,Destination,Price
+IndiGo,Delhi,Mumbai,4500
+Air India,Delhi,Bangalore,6000
+SpiceJet,Mumbai,Chennai,4000
+IndiGo,Delhi,Chennai,5000
+Air India,Mumbai,Bangalore,7000
+SpiceJet,Delhi,Mumbai,3800
